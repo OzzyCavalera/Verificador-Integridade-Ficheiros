@@ -1,6 +1,8 @@
 # 🔐 Verificador de Integridade de Ficheiros
 
 Ferramenta universal para verificação de integridade de ficheiros através de hashes criptográficos com interface gráfica moderna e intuitiva.
+🔽 **Download direto (.exe)**  
+[Verificador de Integridade de Ficheiros – Download](https://github.com/OzzyCavalera/Verificador-Integridade-Ficheiros/releases/download/v6.6.6/Verificador-Integridade-Ficheiros.exe)
 
 ## 📋 Descrição
 
